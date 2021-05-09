@@ -1,6 +1,6 @@
 # Bet-Games
 
-Bienvenue sur notre projet de paris en ligne esportif sur League of Legends, misez et remportez des gains sur votre jeu vidéo préféré avec notre bot discord !
+Bienvenue sur notre projet de paris en ligne esportif sur League of Legends, misez et remportez des gains sur votre jeu vidéo préféré avec notre bot discord ! :fire:
 
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 
@@ -29,7 +29,7 @@ Ajoutez notre bot sur votre serveur discord en cliquant sur ce bouton :point_dow
 
 <a href="https://discord.com/oauth2/authorize?client_id=780382231411687445&permissions=0&scope=bot"><img src="src/main/resources/static/images/boutondiscord.png" width="200px"</img> </a>
 
-Informez vous des commandes à utiliser grace au préfixe **'#'** :memo:, la lise des commandes ce fait grâce à **#info** directement sur votre salon textuel.  
+Informez vous des commandes à utiliser grâce au préfixe **'#'** :memo:, la liste des commandes ce fait grâce à **#info** directement sur votre salon textuel.  
     
 
 ## Fabriqué avec
@@ -49,7 +49,7 @@ Nous avons essentiellement développé notre bot discord sous JAVA avec :
 
 **Dernière version :** 4.0
 
-## Auteurs
+## Auteurs :adult:
 
 * **Loris Martinez** _alias_ [@Loriris](https://github.com/Loriris)
 * **Alexis Rafé** _alias_ [@Vakarr](https://github.com/Vakarr)
